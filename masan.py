@@ -5,5 +5,5 @@ with open("masan.txt",mode="w",encoding="shift_jis") as txt:
     for i in range(int(n)):
         txt.write("マサン")
     print("同じ階層に「masan.txt」ができたよ")
-    input()
+input()
     

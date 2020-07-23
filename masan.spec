@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['masan.py'],
-             pathex=['D:\\guri\\Documents\\GitHub\\tekito'],
+             pathex=['D:\\guri\\Documents\\GitHub\\Masan'],
              binaries=[],
              datas=[],
              hiddenimports=[],
